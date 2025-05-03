@@ -6,20 +6,20 @@ In this project, we build a smart book recommender system that uses **large lang
 
 ---
 ## Data
-	•	Dataset is from Kaggle : https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
-	•	Files like book_cleaned.csv, books_with_emotions.csv, and books_with_categories.csv are generated as part of the pipeline.
+- Dataset is from Kaggle : https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
+- Files like book_cleaned.csv, books_with_emotions.csv, and books_with_categories.csv are generated as part of the pipeline.
 
 ---
 
 ## Dependencies
 
 This project uses:
-	•	pandas, matplotlib, seaborn
-	•	gradio
-	•	langchain, transformers, kagglehub
-	•	python-dotenv
-	•	notebook, ipywidgets
-	•	chromadb, langchain-community
+- pandas, matplotlib, seaborn
+- gradio
+- langchain, transformers, kagglehub
+- python-dotenv
+- notebook, ipywidgets
+- chromadb, langchain-community
 
 All dependencies are listed in requirements.txt.
 
