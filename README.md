@@ -15,4 +15,17 @@ It recommends books based on user preferences using a combination of:
 - Scikit-learn
 - Streamlit (for the web app)
 
-## 📁 Project Structure
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+git clone https://github.com/AlmuarikAmal/book_recommender.git
+cd book_recommender
+
+### 2. Create a virtual environment
+python -m venv .venv
+source .venv/bin/activate  
+
+### 3. Run the app
+python gradio-dashboard.py
+
